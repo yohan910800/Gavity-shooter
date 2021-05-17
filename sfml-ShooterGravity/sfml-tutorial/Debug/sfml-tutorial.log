@@ -1,0 +1,10 @@
+﻿  GameManager.cpp
+d:\sfml-shootergravity\sfml-tutorial\gamemanager.cpp(140): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\sfml-shootergravity\sfml-tutorial\gamemanager.cpp(227): warning C4018: '<': signed/unsigned mismatch
+d:\sfml-shootergravity\sfml-tutorial\gamemanager.cpp(261): warning C4018: '<': signed/unsigned mismatch
+d:\sfml-shootergravity\sfml-tutorial\gamemanager.cpp(289): warning C4018: '<': signed/unsigned mismatch
+d:\sfml-shootergravity\sfml-tutorial\gamemanager.cpp(381): warning C4018: '<': signed/unsigned mismatch
+d:\sfml-shootergravity\sfml-tutorial\gamemanager.cpp(503): warning C4018: '<': signed/unsigned mismatch
+d:\sfml-shootergravity\sfml-tutorial\gamemanager.cpp(515): warning C4018: '<': signed/unsigned mismatch
+d:\sfml-shootergravity\sfml-tutorial\gamemanager.cpp(521): warning C4018: '<': signed/unsigned mismatch
+  sfml-tutorial.vcxproj -> D:\sfml-ShooterGravity\Debug\sfml-tutorial.exe
